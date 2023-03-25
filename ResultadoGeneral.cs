@@ -15,7 +15,7 @@ namespace SistemaControlChequesRev2
     {
         //Se recupera el tipo de consulta que se va a hacer
         string tipo;
-        
+
         public ResultadoGeneral()
         {
             InitializeComponent();
@@ -24,19 +24,24 @@ namespace SistemaControlChequesRev2
             if (ReporteFolio.tipo != null)
             {
                 tipo = ReporteFolio.tipo;
-            }else if(ReporteNombre.tipo!=null){
-                tipo=ReporteNombre.tipo;
-            }else if (ReporteMonto.tipo != null)
+            }
+            else if (ReporteNombre.tipo != null)
             {
-                tipo=ReporteMonto.tipo;
-            }else if(ReporteDetalle.tipo != null)
+                tipo = ReporteNombre.tipo;
+            }
+            else if (ReporteMonto.tipo != null)
+            {
+                tipo = ReporteMonto.tipo;
+            }
+            else if (ReporteDetalle.tipo != null)
             {
                 tipo = ReporteDetalle.tipo;
-            }else if(ReporteFecha.tipo != null)
+            }
+            else if (ReporteFecha.tipo != null)
             {
                 tipo = ReporteFecha.tipo;
             }
-            
+
             llenaCampos();
         }
 
@@ -65,7 +70,7 @@ namespace SistemaControlChequesRev2
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            
+
         }
 
         private void llenaCampos()
@@ -92,7 +97,7 @@ namespace SistemaControlChequesRev2
                 switch (tipo)
                 {
                     case "Folio":
-                        String Sql = "Select * from Cheque where " + tipo + " between " + Folio1 + " and " + Folio2;
+                        String Sql = "Exec sp_ReporteFolio " + Folio1 + "," + Folio2;
                         SqlCommand command = new SqlCommand(Sql, conexion);
                         command.CommandType = System.Data.CommandType.Text;
                         SqlDataReader reader;
@@ -107,11 +112,11 @@ namespace SistemaControlChequesRev2
                         //Recorremos el objeto reader
                         while (reader.Read())
                         {
-                            dataGridView1.Rows.Add(reader["Folio"].ToString(), reader["Beneficiario"].ToString(), reader["Monto"].ToString(), reader["Fecha_Emision"].ToString(), reader["Detalle"].ToString());
+                            dataGridView1.Rows.Add(reader["Folio"].ToString(), reader["Nombre"].ToString(), reader["Monto"].ToString(), reader["Fecha_Emision"].ToString(), reader["Detalle"].ToString());
                         }
                         break;
                     case "Beneficiario":
-                        String Sql2 = "Select * from Cheque where " + tipo + " like " + "'%"+RepoNombre+"%'";
+                        String Sql2 = "Select * from Cheque where " + tipo + " like " + "'%" + RepoNombre + "%'";
                         SqlCommand command2 = new SqlCommand(Sql2, conexion);
                         command2.CommandType = System.Data.CommandType.Text;
                         SqlDataReader reader2;
@@ -149,7 +154,7 @@ namespace SistemaControlChequesRev2
                         }
                         break;
                     case "Fecha_Emision":
-                        String Sql4 = "Select * from Cheque where " + tipo + " between " + Fecha1 + " and "+ Fecha2;
+                        String Sql4 = "Select * from Cheque where " + tipo + " between " + Fecha1 + " and " + Fecha2;
                         SqlCommand command4 = new SqlCommand(Sql4, conexion);
                         command4.CommandType = System.Data.CommandType.Text;
                         SqlDataReader reader4;
@@ -168,7 +173,7 @@ namespace SistemaControlChequesRev2
                         }
                         break;
                     case "Detalle":
-                        String Sql5 = "Select * from Cheque where " + tipo + " like " + "'%"+Detalle+"%'";
+                        String Sql5 = "Select * from Cheque where " + tipo + " like " + "'%" + Detalle + "%'";
                         SqlCommand command5 = new SqlCommand(Sql5, conexion);
                         command5.CommandType = System.Data.CommandType.Text;
                         SqlDataReader reader5;
@@ -200,6 +205,11 @@ namespace SistemaControlChequesRev2
         private void button2_Click_1(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void dataGridView1_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
