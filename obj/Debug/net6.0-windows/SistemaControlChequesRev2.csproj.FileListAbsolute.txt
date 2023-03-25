@@ -1,0 +1,594 @@
+C:\Users\lance\source\repos\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\lance\source\repos\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\lance\source\repos\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\lance\source\repos\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\source\repos\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\lance\source\repos\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\SistemaControlChequesRev2\SistemaControlChequesRev2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CopyComplete
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.RegistroUsuario.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CopyComplete
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\lance\OneDrive\Octavo Semestre\DESARROLLO DE APPS MULTIPLATAFORMA\el good\SistemaControlChequesRev2.2\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.RegistroUsuario.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CopyComplete
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev2.3\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.RegistroUsuario.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CopyComplete
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.0\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.BusquedaGeneral.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.RegistroUsuario.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CopyComplete
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\lance\Documents\Visual Studio 2022\SistemaControlChequesRev3.1\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.BusquedaGeneral.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.RegistroUsuario.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CopyComplete
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev3.2\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.BusquedaGeneral.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.RegistroUsuario.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CopyComplete
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev3.4\SistemaControlChequesRev3.4\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.BusquedaGeneral.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.RegistroUsuario.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CopyComplete
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.BusquedaAnidada.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AgregarBeneficiario.resources
+C:\Users\lance\Desktop\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AgregarConcepto.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AgregarBeneficiario.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AgregarConcepto.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.BusquedaAnidada.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.BusquedaGeneral.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.RegistroUsuario.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CopyComplete
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\lance\Desktop\aaaa\SistemaControlChequesRev3.6\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\SistemaControlChequesRev2.exe
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\SistemaControlChequesRev2.deps.json
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\SistemaControlChequesRev2.runtimeconfig.json
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.AssemblyReference.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AgregarBeneficiario.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AgregarConcepto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Buscar.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.BusquedaAnidada.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.BusquedaGeneral.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Cheques.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Depositos.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Detalle.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.EstadoDecuenta.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ExpedirCheque.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Fecha.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folio.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Folios.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Form1.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.General.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Monto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Nombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.PrincipalMenu.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Properties.Resources.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.RegistroUsuario.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteDetalle.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFecha.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteFolio.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteMonto.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ReporteNombre.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.Reportes.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoCheques.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.ResultadoGeneral.resources
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.GenerateResource.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfoInputs.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.AssemblyInfo.cs
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CoreCompileInputs.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.csproj.CopyComplete
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\refint\SistemaControlChequesRev2.dll
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.pdb
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\SistemaControlChequesRev2.genruntimeconfig.cache
+C:\Users\guede\OneDrive\Documentos\Ingeniería\Multiplataforma\SistemaControlChequesRev4\obj\Debug\net6.0-windows\ref\SistemaControlChequesRev2.dll
