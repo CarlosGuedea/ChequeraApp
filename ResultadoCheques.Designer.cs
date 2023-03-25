@@ -32,7 +32,7 @@
             button1 = new Button();
             button2 = new Button();
             Folio = new DataGridViewTextBoxColumn();
-            Beneficiario = new DataGridViewTextBoxColumn();
+            Nombre = new DataGridViewTextBoxColumn();
             Monto = new DataGridViewTextBoxColumn();
             Fecha_Emision = new DataGridViewTextBoxColumn();
             Detalle = new DataGridViewTextBoxColumn();
@@ -43,7 +43,7 @@
             // 
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Folio, Beneficiario, Monto, Fecha_Emision, Detalle });
+            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Folio, Nombre, Monto, Fecha_Emision, Detalle });
             dataGridView1.Location = new Point(12, 68);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowTemplate.Height = 25;
@@ -75,10 +75,10 @@
             Folio.HeaderText = "Folio";
             Folio.Name = "Folio";
             // 
-            // Beneficiario
+            // Nombre
             // 
-            Beneficiario.HeaderText = "Beneficiario";
-            Beneficiario.Name = "Beneficiario";
+            Nombre.HeaderText = "Nombre";
+            Nombre.Name = "Nombre";
             // 
             // Monto
             // 
@@ -117,7 +117,7 @@
         private Button button1;
         private Button button2;
         private DataGridViewTextBoxColumn Folio;
-        private DataGridViewTextBoxColumn Beneficiario;
+        private DataGridViewTextBoxColumn Nombre;
         private DataGridViewTextBoxColumn Monto;
         private DataGridViewTextBoxColumn Fecha_Emision;
         private DataGridViewTextBoxColumn Detalle;

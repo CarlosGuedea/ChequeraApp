@@ -38,7 +38,7 @@ namespace SistemaControlChequesRev2
         }
 
         private void llenarFilas()
-        {/*
+        {
             try
             {
                 //Conección a la base de datos
@@ -46,7 +46,7 @@ namespace SistemaControlChequesRev2
 
 
                 //Crear la consulta
-                String Sql = "Select * from Cheque";
+                String Sql = "Exec sp_ReporteCheque";
                 SqlCommand command = new SqlCommand(Sql, conexion);
                 command.CommandType = System.Data.CommandType.Text;
                 SqlDataReader reader;
@@ -61,7 +61,7 @@ namespace SistemaControlChequesRev2
                 //Recorremos el objeto reader
                 while (reader.Read())
                 {
-                    dataGridView1.Rows.Add(reader["Folio"].ToString(), reader["Beneficiario"].ToString(), reader["Monto"].ToString(), reader["Fecha_Emision"].ToString(), reader["Detalle"].ToString());
+                    dataGridView1.Rows.Add(reader["Folio"].ToString(), reader["Nombre"].ToString(), reader["Monto"].ToString(), reader["Fecha_Emision"].ToString(), reader["Detalle"].ToString());
                 }
 
                 //Hacemos la verificación de las credenciales
@@ -70,12 +70,12 @@ namespace SistemaControlChequesRev2
             catch (Exception ex)
             {
                 MessageBox.Show(ex + "Error no se pudo conectar a la base de datos");
-            }*/
+            }
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            
+
         }
     }
 }
