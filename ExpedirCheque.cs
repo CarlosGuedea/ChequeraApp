@@ -96,6 +96,7 @@ namespace SistemaControlChequesRev2
 
         private void btbNuevoBeneficiario_Click(object sender, EventArgs e)
         {
+ 
             AgregarBeneficiario agregarBeneficiario = new AgregarBeneficiario();
             agregarBeneficiario.Show();
         }
