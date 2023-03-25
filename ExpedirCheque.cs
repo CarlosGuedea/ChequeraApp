@@ -38,7 +38,7 @@ namespace SistemaControlChequesRev2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //string Folio = this.Folio.Text;
+            //string Folio = this.com.Text;
             string dia = dateTimePicker1.Value.ToString("dd");
             string mes = dateTimePicker1.Value.ToString("MM");
             string anio = dateTimePicker1.Value.ToString("yyyy");
@@ -46,9 +46,8 @@ namespace SistemaControlChequesRev2
             string Nombre = this.combNombre.Text;
             string Monto = this.Monto.Text;
             string Detalle = this.combConcepto.Text;
-            PrincipalMenu principalMenu = new PrincipalMenu();
-            this.Close();
-            /*
+            
+            
             try
             {
                 //Conección a la base de datos
@@ -56,7 +55,7 @@ namespace SistemaControlChequesRev2
 
 
                 //Crear la consulta
-                String Sql = "Insert into Cheque (Folio, Beneficiario, Monto, Fecha_Emision, Detalle) values (" + Folio + ",'" + Nombre + "'," + Monto + "," + Fecha + ",'" + Detalle + "')";
+                String Sql = "Exec sp_ExpedirCheque " + Nombre +","+ Monto +","+Fecha+","+Detalle;
                 SqlCommand command = new SqlCommand(Sql, conexion);
                 command.CommandType = System.Data.CommandType.Text;
                 conexion.Open();
@@ -68,7 +67,10 @@ namespace SistemaControlChequesRev2
             catch (Exception ex)
             {
                 MessageBox.Show(ex + "Error no se pudo conectar a la base de datos");
-            }*/
+            }
+
+            PrincipalMenu principalMenu = new PrincipalMenu();
+            this.Close();
 
         }
 
@@ -115,6 +117,39 @@ namespace SistemaControlChequesRev2
 
         private void button1_Click_1(object sender, EventArgs e)
         {
+            //string Folio = this.com.Text;
+            string dia = dateTimePicker1.Value.ToString("dd");
+            string mes = dateTimePicker1.Value.ToString("MM");
+            string anio = dateTimePicker1.Value.ToString("yyyy");
+            string Fecha = "'" + anio + "-" + mes + "-" + dia + "'";
+            string Nombre = this.combNombre.SelectedItem.ToString();
+            string Monto = this.Monto.Text;
+            string Detalle = this.combConcepto.SelectedItem.ToString();
+
+            MessageBox.Show(Detalle);
+
+            try
+            {
+                //Conección a la base de datos
+                SqlConnection conexion = new SqlConnection(@"Server=localhost;Database=Cheques;User=usuario;Password=12345;Trusted_Connection=True;");
+
+
+                //Crear la consulta
+                String Sql = "Exec sp_ExpedirCheque " + "'"+ Nombre + "'," + Monto + "," + Fecha + "," + "'"+Detalle+"'";
+                SqlCommand command = new SqlCommand(Sql, conexion);
+                command.CommandType = System.Data.CommandType.Text;
+                conexion.Open();
+
+                //Ejecutar la consulta
+                command.ExecuteNonQuery();
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex + "Error no se pudo conectar a la base de datos");
+            }
+
+            PrincipalMenu principalMenu = new PrincipalMenu();
             this.Close();
         }
 
