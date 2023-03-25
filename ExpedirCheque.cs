@@ -140,7 +140,7 @@ namespace SistemaControlChequesRev2
             //Conección a la base de datos
             SqlConnection conexion = new SqlConnection(@"Server=localhost;Database=Cheques;User=usuario;Password=12345;Trusted_Connection=True;");
 
-            String Sql = "Select Beneficiario from Cheque";
+            String Sql = "Select Nombre from Beneficiario";
             SqlCommand command = new SqlCommand(Sql, conexion);
             command.CommandType = System.Data.CommandType.Text;
             SqlDataReader reader;
@@ -163,7 +163,7 @@ namespace SistemaControlChequesRev2
             //Conección a la base de datos
             SqlConnection conexion = new SqlConnection(@"Server=localhost;Database=Cheques;User=usuario;Password=12345;Trusted_Connection=True;");
 
-            String Sql = "Select Detalle from Cheque";
+            String Sql = "Select Detalle from Detalle_Cheque";
             SqlCommand command = new SqlCommand(Sql, conexion);
             command.CommandType = System.Data.CommandType.Text;
             SqlDataReader reader;
