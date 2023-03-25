@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -38,6 +39,34 @@ namespace SistemaControlChequesRev2
             this.Dispose();
         }
 
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            //Recuperar los valores
+            string Nombre = textBox1.Text;
+
+            try
+            {
+                //Conección a la base de datos
+                SqlConnection conexion = new SqlConnection(@"Server=localhost;Database=Cheques;User=usuario;Password=12345;Trusted_Connection=True;");
+
+
+                //Crear la consulta
+                String Sql = "Insert into Beneficiario (Nombre) values ('" + Nombre + "')";
+                SqlCommand command = new SqlCommand(Sql, conexion);
+                command.CommandType = System.Data.CommandType.Text;
+                conexion.Open();
+
+                //Ejecutar la consulta
+                command.ExecuteNonQuery();
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex + "Error no se pudo conectar a la base de datos");
+            }
+
+            this.Close();
+        }
     }
 
 }

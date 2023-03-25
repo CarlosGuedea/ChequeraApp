@@ -126,7 +126,6 @@ namespace SistemaControlChequesRev2
             string Monto = this.Monto.Text;
             string Detalle = this.combConcepto.SelectedItem.ToString();
 
-            MessageBox.Show(Detalle);
 
             try
             {
@@ -166,7 +165,7 @@ namespace SistemaControlChequesRev2
 
         private void combNombre_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+            combNombreFill();
             
         }
         //METODO PARA LLENAR EL COMBOBOX DE NOMBRE AL INICIO
